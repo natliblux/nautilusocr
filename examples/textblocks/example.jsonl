@@ -1,0 +1,6 @@
+{"id": "img0", "image": "./examples/textblocks/images/0.tif", "font": "fraktur", "gt": "./examples/textblocks/gt/0.xml", "gt-block-id": "TB1", "ori": "./examples/textblocks/ori/0.xml", "ori-block-id": "TB1", "year": 1859}
+{"id": "img1", "image": "./examples/textblocks/images/1.tif", "font": "antiqua", "gt": "./examples/textblocks/gt/1.xml", "gt-block-id": "TB1", "ori": "./examples/textblocks/ori/1.xml", "ori-block-id": "TB1", "year": 1858}
+{"id": "img2", "image": "./examples/textblocks/images/2.tif", "font": "antiqua", "gt": "./examples/textblocks/gt/2.xml", "gt-block-id": "TB1", "ori": "./examples/textblocks/ori/2.xml", "ori-block-id": "TB1", "year": 1859}
+{"id": "img3", "image": "./examples/textblocks/images/3.tif", "font": "fraktur", "gt": "./examples/textblocks/gt/3.xml", "gt-block-id": "TB1", "ori": "./examples/textblocks/ori/3.xml", "ori-block-id": "TB1", "year": 1861}
+{"id": "img4", "image": "./examples/textblocks/images/4.tif", "font": "antiqua", "gt": "./examples/textblocks/gt/4.xml", "gt-block-id": "TB1", "ori": "./examples/textblocks/ori/4.xml", "ori-block-id": "TB1", "year": 1861}
+{"id": "img5", "image": "./examples/textblocks/images/5.tif", "font": "fraktur", "gt": "./examples/textblocks/gt/5.xml", "gt-block-id": "TB1", "ori": "./examples/textblocks/ori/5.xml", "ori-block-id": "TB1", "year": 1850}

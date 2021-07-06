@@ -1,0 +1,12 @@
+*.log
+*.pot
+*.pyc
+.vscode/
+
+output/
+nohup.out
+
+models/final/bnl-epr-de-fr-lb.jsonl
+models/final/bnl-fcr.h5
+models/final/bnl-ocr-antiqua.mlmodel
+models/final/bnl-ocr-fraktur.mlmodel

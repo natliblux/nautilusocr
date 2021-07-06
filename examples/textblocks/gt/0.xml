@@ -1,0 +1,254 @@
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-1.xsd">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>0.tif</fileName>
+		</sourceImageInformation>
+	</Description>
+	<Layout>
+		<Page ID="P_0001" PHYSICAL_IMG_NR="1">
+			<PrintSpace>
+				<TextBlock ID="TB1">
+					<TextLine ID="TL_0001" HPOS="67" VPOS="2" WIDTH="620" HEIGHT="35">
+						<String CONTENT="Die" CC="000" HPOS="68" VPOS="3" WIDTH="53" HEIGHT="28" />
+						<SP />
+						<String CONTENT="Nr." CC="000" HPOS="139" VPOS="3" WIDTH="47" HEIGHT="27" />
+						<SP />
+						<String CONTENT="4" CC="0" HPOS="205" VPOS="4" WIDTH="16" HEIGHT="25" />
+						<SP />
+						<String CONTENT="vom" CC="000" HPOS="241" VPOS="10" WIDTH="54" HEIGHT="20" />
+						<SP />
+						<String CONTENT="8." CC="00" HPOS="314" VPOS="3" WIDTH="23" HEIGHT="26" />
+						<SP />
+						<String CONTENT="Februar" CC="0000000" HPOS="359" VPOS="4" WIDTH="109" HEIGHT="32" />
+						<SP />
+						<String CONTENT="1859" CC="0000" HPOS="490" VPOS="3" WIDTH="65" HEIGHT="27" />
+						<SP />
+						<String CONTENT="enthält:" CC="00000000" HPOS="577" VPOS="3" WIDTH="109" HEIGHT="32" />
+					</TextLine>
+					<TextLine ID="TL_0002" HPOS="37" VPOS="42" WIDTH="1116" HEIGHT="37">
+						<String CONTENT="1." CC="00" HPOS="38" VPOS="44" WIDTH="21" HEIGHT="26" />
+						<SP />
+						<String CONTENT="Den" CC="000" HPOS="79" VPOS="44" WIDTH="55" HEIGHT="28" />
+						<SP />
+						<String CONTENT="Königlich⸗Großherzogl." CC="0000000000000000000000" HPOS="156" VPOS="44" WIDTH="339" HEIGHT="34" />
+						<SP />
+						<String CONTENT="Beschluß" CC="00000000" HPOS="513" VPOS="44" WIDTH="116" HEIGHT="32" />
+						<SP />
+						<String CONTENT="vom" CC="000" HPOS="650" VPOS="51" WIDTH="55" HEIGHT="18" />
+						<SP />
+						<String CONTENT="2." CC="00" HPOS="725" VPOS="44" WIDTH="25" HEIGHT="26" />
+						<SP />
+						<String CONTENT="Februar" CC="0000000" HPOS="770" VPOS="44" WIDTH="109" HEIGHT="32" />
+						<SP />
+						<String CONTENT="1859," CC="00000" HPOS="900" VPOS="43" WIDTH="82" HEIGHT="32" />
+						<SP />
+						<String CONTENT="welcher" CC="0000000" HPOS="1001" VPOS="44" WIDTH="94" HEIGHT="31" />
+						<SP />
+						<String CONTENT="die" CC="000" HPOS="1115" VPOS="44" WIDTH="37" HEIGHT="27" />
+					</TextLine>
+					<TextLine ID="TL_0003" HPOS="0" VPOS="83" WIDTH="1153" HEIGHT="38">
+						<String CONTENT="Festungsbauten" CC="00000000000000" HPOS="1" VPOS="87" WIDTH="210" HEIGHT="33" />
+						<SP />
+						<String CONTENT="und" CC="000" HPOS="241" VPOS="87" WIDTH="48" HEIGHT="26" />
+						<SP />
+						<String CONTENT="Verlegungsarbeiten" CC="000000000000000000" HPOS="309" VPOS="87" WIDTH="270" HEIGHT="32" />
+						<SP />
+						<String CONTENT="von" CC="000" HPOS="605" VPOS="93" WIDTH="49" HEIGHT="20" />
+						<SP />
+						<String CONTENT="militärischen" CC="0000000000000" HPOS="680" VPOS="84" WIDTH="171" HEIGHT="31" />
+						<SP />
+						<String CONTENT="Gebäuden" CC="00000000" HPOS="873" VPOS="84" WIDTH="135" HEIGHT="28" />
+						<SP />
+						<String CONTENT="und" CC="000" HPOS="1033" VPOS="87" WIDTH="49" HEIGHT="26" />
+						<SP />
+						<String CONTENT="An⸗" CC="000" HPOS="1101" VPOS="87" WIDTH="51" HEIGHT="27" />
+					</TextLine>
+					<TextLine ID="TL_0004" HPOS="0" VPOS="125" WIDTH="1153" HEIGHT="38">
+						<String CONTENT="stalten," CC="00000000" HPOS="1" VPOS="127" WIDTH="93" HEIGHT="31" />
+						<SP />
+						<String CONTENT="die" CC="000" HPOS="116" VPOS="127" WIDTH="37" HEIGHT="26" />
+						<SP />
+						<String CONTENT="durch" CC="00000" HPOS="171" VPOS="128" WIDTH="67" HEIGHT="29" />
+						<SP />
+						<String CONTENT="die" CC="000" HPOS="259" VPOS="127" WIDTH="37" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Anlage" CC="000000" HPOS="317" VPOS="127" WIDTH="97" HEIGHT="33" />
+						<SP />
+						<String CONTENT="des" CC="000" HPOS="433" VPOS="130" WIDTH="42" HEIGHT="23" />
+						<SP />
+						<String CONTENT="Bahnhofes" CC="000000000" HPOS="494" VPOS="127" WIDTH="145" HEIGHT="31" />
+						<SP />
+						<String CONTENT="zu" CC="00" HPOS="660" VPOS="135" WIDTH="26" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Luxemburg" CC="000000000" HPOS="703" VPOS="126" WIDTH="148" HEIGHT="33" />
+						<SP />
+						<String CONTENT="und" CC="000" HPOS="874" VPOS="128" WIDTH="48" HEIGHT="23" />
+						<SP />
+						<String CONTENT="den" CC="000" HPOS="940" VPOS="127" WIDTH="43" HEIGHT="26" />
+						<SP />
+						<String CONTENT="Durchgang" CC="000000000" HPOS="1001" VPOS="127" WIDTH="152" HEIGHT="34" />
+					</TextLine>
+					<TextLine ID="TL_0005" HPOS="0" VPOS="167" WIDTH="1153" HEIGHT="36">
+						<String CONTENT="der" CC="000" HPOS="1" VPOS="170" WIDTH="38" HEIGHT="26" />
+						<SP />
+						<String CONTENT="Eisenbahnen" CC="00000000000" HPOS="60" VPOS="169" WIDTH="170" HEIGHT="32" />
+						<SP />
+						<String CONTENT="durch" CC="00000" HPOS="249" VPOS="170" WIDTH="69" HEIGHT="31" />
+						<SP />
+						<String CONTENT="den" CC="000" HPOS="337" VPOS="168" WIDTH="44" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Ravon" CC="00900" HPOS="405" VPOS="169" WIDTH="92" HEIGHT="27" />
+						<SP />
+						<String CONTENT="der" CC="000" HPOS="517" VPOS="170" WIDTH="38" HEIGHT="25" />
+						<SP />
+						<String CONTENT="Bundesfestung" CC="0000000000000" HPOS="577" VPOS="169" WIDTH="198" HEIGHT="32" />
+						<SP />
+						<String CONTENT="aus" CC="000" HPOS="803" VPOS="169" WIDTH="43" HEIGHT="28" />
+						<SP />
+						<String CONTENT="Privateigenthum" CC="000000000000000" HPOS="864" VPOS="168" WIDTH="231" HEIGHT="34" />
+						<SP />
+						<String CONTENT="be⸗" CC="000" HPOS="1117" VPOS="170" WIDTH="36" HEIGHT="26" />
+					</TextLine>
+					<TextLine ID="TL_0006" HPOS="0" VPOS="208" WIDTH="915" HEIGHT="39">
+						<String CONTENT="nöthigt" CC="0000000" HPOS="1" VPOS="210" WIDTH="98" HEIGHT="33" />
+						<SP />
+						<String CONTENT="werden" CC="000000" HPOS="120" VPOS="214" WIDTH="91" HEIGHT="23" />
+						<SP />
+						<String CONTENT="können," CC="0000000" HPOS="231" VPOS="210" WIDTH="100" HEIGHT="31" />
+						<SP />
+						<String CONTENT="zu" CC="00" HPOS="352" VPOS="219" WIDTH="27" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Bauten" CC="000000" HPOS="400" VPOS="210" WIDTH="99" HEIGHT="28" />
+						<SP />
+						<String CONTENT="öffentlichen" CC="000000000000" HPOS="521" VPOS="209" WIDTH="150" HEIGHT="33" />
+						<SP />
+						<String CONTENT="Nutzens" CC="0000000" HPOS="692" VPOS="209" WIDTH="108" HEIGHT="33" />
+						<SP />
+						<String CONTENT="erklärt." CC="00000000" HPOS="820" VPOS="209" WIDTH="94" HEIGHT="26" />
+					</TextLine>
+					<TextLine ID="TL_0007" HPOS="34" VPOS="250" WIDTH="1118" HEIGHT="36">
+						<String CONTENT="2." CC="00" HPOS="35" VPOS="252" WIDTH="26" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Das" CC="000" HPOS="81" VPOS="253" WIDTH="60" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Gesetz" CC="000000" HPOS="161" VPOS="252" WIDTH="77" HEIGHT="33" />
+						<SP />
+						<String CONTENT="vom" CC="000" HPOS="268" VPOS="259" WIDTH="54" HEIGHT="18" />
+						<SP />
+						<String CONTENT="30." CC="000" HPOS="352" VPOS="252" WIDTH="42" HEIGHT="26" />
+						<SP />
+						<String CONTENT="December" CC="00000000" HPOS="414" VPOS="252" WIDTH="132" HEIGHT="27" />
+						<SP />
+						<String CONTENT="1858," CC="00000" HPOS="577" VPOS="252" WIDTH="82" HEIGHT="31" />
+						<SP />
+						<String CONTENT="durch" CC="00000" HPOS="687" VPOS="252" WIDTH="67" HEIGHT="29" />
+						<SP />
+						<String CONTENT="welches" CC="0000000" HPOS="785" VPOS="252" WIDTH="95" HEIGHT="26" />
+						<SP />
+						<String CONTENT="dem" CC="000" HPOS="910" VPOS="252" WIDTH="50" HEIGHT="25" />
+						<SP />
+						<String CONTENT="Färber" CC="000000" HPOS="984" VPOS="251" WIDTH="92" HEIGHT="32" />
+						<SP />
+						<String CONTENT="und" CC="000" HPOS="1104" VPOS="252" WIDTH="48" HEIGHT="25" />
+					</TextLine>
+					<TextLine ID="TL_0008" HPOS="1" VPOS="290" WIDTH="1152" HEIGHT="40">
+						<String CONTENT="Krämer" CC="000000" HPOS="2" VPOS="294" WIDTH="103" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Friedrich" CC="000000000" HPOS="123" VPOS="294" WIDTH="120" HEIGHT="33" />
+						<SP />
+						<String CONTENT="Anton" CC="00000" HPOS="264" VPOS="295" WIDTH="83" HEIGHT="26" />
+						<SP />
+						<String CONTENT="Ensch," CC="000000" HPOS="369" VPOS="292" WIDTH="116" HEIGHT="32" />
+						<SP />
+						<String CONTENT="geboren" CC="0000000" HPOS="504" VPOS="294" WIDTH="103" HEIGHT="33" />
+						<SP />
+						<String CONTENT="zu" CC="00" HPOS="631" VPOS="301" WIDTH="26" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Neuerburg" CC="000000000" HPOS="677" VPOS="291" WIDTH="147" HEIGHT="37" />
+						<SP />
+						<String CONTENT="(Preußen)" CC="000000000" HPOS="846" VPOS="291" WIDTH="143" HEIGHT="37" />
+						<SP />
+						<String CONTENT="und" CC="000" HPOS="1004" VPOS="296" WIDTH="48" HEIGHT="22" />
+						<SP />
+						<String CONTENT="wohn⸗" CC="00000" HPOS="1072" VPOS="294" WIDTH="81" HEIGHT="28" />
+					</TextLine>
+					<TextLine ID="TL_0009" HPOS="1" VPOS="333" WIDTH="1152" HEIGHT="39">
+						<String CONTENT="hast" CC="0000" HPOS="2" VPOS="336" WIDTH="50" HEIGHT="32" />
+						<SP />
+						<String CONTENT="zu" CC="00" HPOS="73" VPOS="344" WIDTH="26" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Vianden," CC="00000000" HPOS="120" VPOS="336" WIDTH="126" HEIGHT="31" />
+						<SP />
+						<String CONTENT="mittelst" CC="00000000" HPOS="267" VPOS="335" WIDTH="98" HEIGHT="29" />
+						<SP />
+						<String CONTENT="Entrichtung" CC="00000000000" HPOS="385" VPOS="335" WIDTH="164" HEIGHT="32" />
+						<SP />
+						<String CONTENT="einer" CC="00000" HPOS="570" VPOS="334" WIDTH="65" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Gebühr" CC="000000" HPOS="654" VPOS="334" WIDTH="103" HEIGHT="31" />
+						<SP />
+						<String CONTENT="von" CC="000" HPOS="781" VPOS="341" WIDTH="48" HEIGHT="20" />
+						<SP />
+						<String CONTENT="Fr." CC="000" HPOS="850" VPOS="335" WIDTH="39" HEIGHT="32" />
+						<SP />
+						<String CONTENT="50" CC="00" HPOS="908" VPOS="334" WIDTH="34" HEIGHT="26" />
+						<SP />
+						<String CONTENT="die" CC="000" HPOS="962" VPOS="334" WIDTH="38" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Naturali⸗" CC="000000000" HPOS="1018" VPOS="334" WIDTH="135" HEIGHT="27" />
+					</TextLine>
+					<TextLine ID="TL_0010" HPOS="0" VPOS="373" WIDTH="1153" HEIGHT="36">
+						<String CONTENT="sation" CC="000000" HPOS="1" VPOS="378" WIDTH="80" HEIGHT="31" />
+						<SP />
+						<String CONTENT="verliehen" CC="000000000" HPOS="100" VPOS="377" WIDTH="121" HEIGHT="31" />
+						<SP />
+						<String CONTENT="wird;" CC="00000" HPOS="242" VPOS="375" WIDTH="76" HEIGHT="33" />
+						<SP />
+						<String CONTENT="ferner" CC="000000" HPOS="341" VPOS="377" WIDTH="76" HEIGHT="31" />
+						<SP />
+						<String CONTENT="die" CC="000" HPOS="438" VPOS="378" WIDTH="37" HEIGHT="25" />
+						<SP />
+						<String CONTENT="von" CC="000" HPOS="493" VPOS="384" WIDTH="48" HEIGHT="18" />
+						<SP />
+						<String CONTENT="demselben" CC="000000000" HPOS="561" VPOS="374" WIDTH="131" HEIGHT="32" />
+						<SP />
+						<String CONTENT="unter" CC="00000" HPOS="712" VPOS="379" WIDTH="71" HEIGHT="22" />
+						<SP />
+						<String CONTENT="Datum" CC="00000" HPOS="802" VPOS="374" WIDTH="97" HEIGHT="27" />
+						<SP />
+						<String CONTENT="vom" CC="000" HPOS="918" VPOS="383" WIDTH="54" HEIGHT="18" />
+						<SP />
+						<String CONTENT="29." CC="000" HPOS="994" VPOS="374" WIDTH="39" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Januar" CC="000000" HPOS="1050" VPOS="375" WIDTH="103" HEIGHT="32" />
+					</TextLine>
+					<TextLine ID="TL_0011" HPOS="4" VPOS="416" WIDTH="1149" HEIGHT="37">
+						<String CONTENT="1859" CC="0000" HPOS="5" VPOS="418" WIDTH="66" HEIGHT="27" />
+						<SP />
+						<String CONTENT="dem" CC="000" HPOS="95" VPOS="421" WIDTH="50" HEIGHT="25" />
+						<SP />
+						<String CONTENT="Bürgermeister" CC="0000000000000" HPOS="166" VPOS="418" WIDTH="193" HEIGHT="34" />
+						<SP />
+						<String CONTENT="der" CC="000" HPOS="378" VPOS="419" WIDTH="40" HEIGHT="26" />
+						<SP />
+						<String CONTENT="Stadt" CC="00000" HPOS="438" VPOS="418" WIDTH="81" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Vianden" CC="0000000" HPOS="539" VPOS="418" WIDTH="115" HEIGHT="27" />
+						<SP />
+						<String CONTENT="zu" CC="00" HPOS="677" VPOS="424" WIDTH="27" HEIGHT="27" />
+						<SP />
+						<String CONTENT="Protokoll" CC="000000000" HPOS="726" VPOS="417" WIDTH="128" HEIGHT="33" />
+						<SP />
+						<String CONTENT="gegebene" CC="00000000" HPOS="880" VPOS="418" WIDTH="115" HEIGHT="32" />
+						<SP />
+						<String CONTENT="Annahme⸗" CC="00000000" HPOS="1013" VPOS="418" WIDTH="139" HEIGHT="31" />
+					</TextLine>
+					<TextLine ID="TL_0012" HPOS="1" VPOS="460" WIDTH="150" HEIGHT="35">
+						<String CONTENT="Erklärung." CC="0000000000" HPOS="2" VPOS="461" WIDTH="148" HEIGHT="34" />
+					</TextLine>
+				</TextBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

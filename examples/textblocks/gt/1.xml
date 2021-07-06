@@ -1,0 +1,123 @@
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-1.xsd">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>1.tif</fileName>
+		</sourceImageInformation>
+	</Description>
+	<Layout>
+		<Page ID="P_0001" PHYSICAL_IMG_NR="1">
+			<PrintSpace>
+				<TextBlock ID="TB1">
+					<TextLine ID="TL_0001" HPOS="34" VPOS="0" WIDTH="712" HEIGHT="34">
+						<String CONTENT="»A" CC="00" HPOS="35" VPOS="0" WIDTH="48" HEIGHT="26" />
+						<SP />
+						<String CONTENT="ce" CC="00" HPOS="106" VPOS="6" WIDTH="27" HEIGHT="18" />
+						<SP />
+						<String CONTENT="titre," CC="000000" HPOS="154" VPOS="0" WIDTH="72" HEIGHT="32" />
+						<SP />
+						<String CONTENT="nos" CC="000" HPOS="253" VPOS="8" WIDTH="45" HEIGHT="18" />
+						<SP />
+						<String CONTENT="lecteurs" CC="00000000" HPOS="314" VPOS="2" WIDTH="108" HEIGHT="27" />
+						<SP />
+						<String CONTENT="ne" CC="00" HPOS="440" VPOS="11" WIDTH="31" HEIGHT="18" />
+						<SP />
+						<String CONTENT="nous" CC="0000" HPOS="486" VPOS="11" WIDTH="62" HEIGHT="18" />
+						<SP />
+						<String CONTENT="en" CC="00" HPOS="569" VPOS="11" WIDTH="28" HEIGHT="18" />
+						<SP />
+						<String CONTENT="voudront" CC="00000000" HPOS="619" VPOS="6" WIDTH="126" HEIGHT="26" />
+					</TextLine>
+					<TextLine ID="TL_0002" HPOS="0" VPOS="35" WIDTH="745" HEIGHT="34">
+						<String CONTENT="certes" CC="000000" HPOS="1" VPOS="38" WIDTH="82" HEIGHT="23" />
+						<SP />
+						<String CONTENT="pas" CC="000" HPOS="101" VPOS="41" WIDTH="45" HEIGHT="26" />
+						<SP />
+						<String CONTENT="d’appeler" CC="000000000" HPOS="167" VPOS="36" WIDTH="127" HEIGHT="32" />
+						<SP />
+						<String CONTENT="leur" CC="0000" HPOS="314" VPOS="38" WIDTH="54" HEIGHT="26" />
+						<SP />
+						<String CONTENT="attention" CC="000000000" HPOS="386" VPOS="39" WIDTH="122" HEIGHT="26" />
+						<SP />
+						<String CONTENT="sur" CC="000" HPOS="527" VPOS="47" WIDTH="44" HEIGHT="17" />
+						<SP />
+						<String CONTENT="une" CC="000" HPOS="589" VPOS="47" WIDTH="49" HEIGHT="17" />
+						<SP />
+						<String CONTENT="coïnci-" CC="0000000" HPOS="654" VPOS="41" WIDTH="91" HEIGHT="25" />
+					</TextLine>
+					<TextLine ID="TL_0003" HPOS="0" VPOS="68" WIDTH="744" HEIGHT="37">
+						<String CONTENT="dence" CC="00000" HPOS="1" VPOS="69" WIDTH="77" HEIGHT="25" />
+						<SP />
+						<String CONTENT="des" CC="000" HPOS="105" VPOS="71" WIDTH="44" HEIGHT="25" />
+						<SP />
+						<String CONTENT="plus" CC="0000" HPOS="175" VPOS="72" WIDTH="56" HEIGHT="31" />
+						<SP />
+						<String CONTENT="étranges" CC="00000000" HPOS="254" VPOS="72" WIDTH="119" HEIGHT="32" />
+						<SP />
+						<String CONTENT="et" CC="00" HPOS="396" VPOS="77" WIDTH="23" HEIGHT="21" />
+						<SP />
+						<String CONTENT="ils" CC="000" HPOS="442" VPOS="74" WIDTH="31" HEIGHT="23" />
+						<SP />
+						<String CONTENT="conclueront" CC="00000000000" HPOS="496" VPOS="74" WIDTH="164" HEIGHT="26" />
+						<SP />
+						<String CONTENT="avec" CC="0000" HPOS="684" VPOS="82" WIDTH="60" HEIGHT="20" />
+					</TextLine>
+					<TextLine ID="TL_0004" HPOS="0" VPOS="104" WIDTH="746" HEIGHT="40">
+						<String CONTENT="nous," CC="00000" HPOS="1" VPOS="111" WIDTH="75" HEIGHT="22" />
+						<SP />
+						<String CONTENT="que" CC="000" HPOS="93" VPOS="111" WIDTH="49" HEIGHT="26" />
+						<SP />
+						<String CONTENT="les" CC="000" HPOS="156" VPOS="105" WIDTH="34" HEIGHT="26" />
+						<SP />
+						<String CONTENT="détails" CC="0000000" HPOS="205" VPOS="105" WIDTH="89" HEIGHT="26" />
+						<SP />
+						<String CONTENT="très-exacts" CC="00000000000" HPOS="311" VPOS="107" WIDTH="148" HEIGHT="26" />
+						<SP />
+						<String CONTENT="dans" CC="0000" HPOS="473" VPOS="109" WIDTH="64" HEIGHT="26" />
+						<SP />
+						<String CONTENT="lesquels" CC="00000000" HPOS="555" VPOS="110" WIDTH="110" HEIGHT="32" />
+						<SP />
+						<String CONTENT="nous" CC="0000" HPOS="682" VPOS="116" WIDTH="64" HEIGHT="18" />
+					</TextLine>
+					<TextLine ID="TL_0005" HPOS="0" VPOS="138" WIDTH="746" HEIGHT="36">
+						<String CONTENT="allons" CC="000000" HPOS="1" VPOS="139" WIDTH="81" HEIGHT="25" />
+						<SP />
+						<String CONTENT="entrer," CC="0000000" HPOS="105" VPOS="143" WIDTH="98" HEIGHT="28" />
+						<SP />
+						<String CONTENT="s’appliquent" CC="000000000000" HPOS="228" VPOS="140" WIDTH="170" HEIGHT="33" />
+						<SP />
+						<String CONTENT="à" CC="0" HPOS="421" VPOS="143" WIDTH="11" HEIGHT="26" />
+						<SP />
+						<String CONTENT="l’un" CC="0000" HPOS="457" VPOS="143" WIDTH="49" HEIGHT="25" />
+						<SP />
+						<String CONTENT="des" CC="000" HPOS="529" VPOS="144" WIDTH="43" HEIGHT="23" />
+						<SP />
+						<String CONTENT="accusés" CC="0000000" HPOS="594" VPOS="144" WIDTH="104" HEIGHT="26" />
+						<SP />
+						<String CONTENT="au" CC="00" HPOS="715" VPOS="153" WIDTH="31" HEIGHT="17" />
+					</TextLine>
+					<TextLine ID="TL_0006" HPOS="0" VPOS="174" WIDTH="746" HEIGHT="34">
+						<String CONTENT="moins," CC="000000" HPOS="1" VPOS="175" WIDTH="97" HEIGHT="29" />
+						<SP />
+						<String CONTENT="renvoyés" CC="00000000" HPOS="122" VPOS="175" WIDTH="120" HEIGHT="32" />
+						<SP />
+						<String CONTENT="devant" CC="000000" HPOS="263" VPOS="176" WIDTH="93" HEIGHT="25" />
+						<SP />
+						<String CONTENT="la" CC="00" HPOS="376" VPOS="177" WIDTH="22" HEIGHT="25" />
+						<SP />
+						<String CONTENT="Cour" CC="0000" HPOS="414" VPOS="177" WIDTH="67" HEIGHT="26" />
+						<SP />
+						<String CONTENT="d’assises" CC="000000000" HPOS="498" VPOS="178" WIDTH="121" HEIGHT="26" />
+						<SP />
+						<String CONTENT="du" CC="00" HPOS="637" VPOS="179" WIDTH="32" HEIGHT="25" />
+						<SP />
+						<String CONTENT="Cal-" CC="0000" HPOS="689" VPOS="179" WIDTH="57" HEIGHT="26" />
+					</TextLine>
+					<TextLine ID="TL_0007" HPOS="0" VPOS="208" WIDTH="90" HEIGHT="25">
+						<String CONTENT="vados." CC="000000" HPOS="1" VPOS="209" WIDTH="88" HEIGHT="24" />
+					</TextLine>
+				</TextBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
