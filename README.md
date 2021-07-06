@@ -43,6 +43,7 @@ Nautilus-OCR is mainly built on open-source libraries combined with some proprie
 * [Models](#models)
 * [Libraries](#libraries)
 * [License](#license)
+* [Credits](#credits)
 * [Contact](#contact)
 
 # Quick Start
@@ -381,6 +382,10 @@ Nautilus-OCR is mostly built on open-source libraries, with the most important o
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 See `COPYING` to see full text.
+
+# Credits
+
+Thanks and credits go to the [Lexicolux project](https://infolux.uni.lu/worterbucher/), whose work is the basis for the generation of `dicts/lb.txt`.
 
 # Contact
 
