@@ -87,6 +87,7 @@ With Python3 (tested on version 3.8.5) installed, clone this repostitory and ins
 Hunspell dependency might require:
 
 	apt-get install libhunspell-dev
+	brew install hunspell
 
 OpenCV dependency might require:
 	
