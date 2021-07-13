@@ -6,9 +6,9 @@ from ocr.pipe.block import Block
 from fcr.apply_fcr import predict_font
 from lxml import etree
 from seg.apply_seg import combiseg
+from tqdm import tqdm
 
 import constants.constants as ct
-from tqdm import tqdm
 import cv2
 import numpy as np
 import os
@@ -73,7 +73,8 @@ def add_existing_pairs(existing_dir, set_name):
 				if label != None:	
 					for font in ct.FONTS:
 						if font in path:
-							save_pair(cv2.imread(path), set_name, font, label, 'existing')
+							img = bin_otsu(cv2.imread(path))[0]
+							save_pair(img, set_name, font, label, 'existing')
 							break
 
 # returns None in case text contains non-whitelasted chars - also replaces some special chars

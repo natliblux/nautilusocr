@@ -159,9 +159,9 @@ Creates an ocr train set consisting of image/text line pairs. Every pair is of t
 |-j --jsonl||Path to jsonl file referencing image and ALTO files <sup>1</sup> <sup>2</sup>|
 |-c --confidence|9 (max tolerant)|Highest tolerated confidence value for every character in line|
 |-m --model|fcr-model|Name of fcr model to be used in absence of font class indication <sup>3</sup>|
-|-e --existing||Path to directory containing existing pairs <sup>4</sup>|
-|-g --generated|0 (none)|Number of artificially generated pairs to be added per font class <sup>5</sup> <sup>6</sup>|
-|-t --text||Path to text file containing text for artificial pairs <sup>7</sup>|
+|-e --existing||Path to directory containing existing pairs <sup>4</sup> <sup>5</sup>|
+|-g --generated|0 (none)|Number of artificially generated pairs to be added per font class <sup>6</sup> <sup>7</sup>|
+|-t --text||Path to text file containing text for artificial pairs <sup>8</sup>|
 |-n --nlines|-1 (max)|Maximum number of pairs per font class |
 |-s --set|ocr-train-set|Name of ocr train set
 
@@ -174,9 +174,10 @@ Creates an ocr train set consisting of image/text line pairs. Every pair is of t
 <sup>2</sup> Key **gt-block-id** can optionally reference a single block in a multi-block ALTO file.<br>
 <sup>3</sup> Absence of **font** key means that -m option must be set to automatically determine the font class.<br>
 <sup>4</sup> Naming convention for existing pairs: `[pair-name].png/.tif` & `[pair-name].gt.txt`.<br>
-<sup>5</sup> Artificially generated lines represent lower quality examples for the model to learn from.<br>
-<sup>6</sup> Fonts in `fonts/artificial/` are being randomly used and can be adjusted per font class.<br>
-<sup>7</sup> Text is given by a `.txt` file with individual words delimited by spaces and line breaks.
+<sup>5</sup> Image part of existing pairs is supposed to be unbinarized.<br>
+<sup>6</sup> Artificially generated lines represent lower quality examples for the model to learn from.<br>
+<sup>7</sup> Fonts in `fonts/artificial/` are being randomly used and can be adjusted per font class.<br>
+<sup>8</sup> Text is given by a `.txt` file with individual words delimited by spaces and line breaks.
 
 ### **train-ocr**
 
