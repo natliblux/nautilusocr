@@ -16,4 +16,3 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 <br><br>
 More information about CC0 1.0 Universal (CC0 1.0) Public Domain Dedication:
 https://creativecommons.org/publicdomain/zero/1.0/
-
