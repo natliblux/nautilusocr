@@ -39,8 +39,8 @@ Nautilus-OCR is mainly built on open-source libraries combined with some proprie
 	* [seg](#text-line-segmentation)
 	* [fcr](#font-class-recognition)
 	* [epr](#enhancement-prediction)
-* [Train Sets](#train-sets)
 * [Models](#models)
+* [Ground Truth](#ground-truth)
 * [Libraries](#libraries)
 * [License](#license)
 * [Credits](#credits)
@@ -343,25 +343,17 @@ Tests an epr model and returns the mean average error after applying leave-one-o
 | :-------------- | :------- | :---------- |
 |-m --model|epr-model|Name of epr model to be tested|
 
-# Train Sets
-
-Nautilus-OCR encloses a ready to use train set:
-
-* **bnl-public-ocr**<br>
-
-OCR ground truth dataset including more than 33k text line img/txt pairs, split in antiqua (19k) and fraktur (14k) font classes. The set is based on Luxembourg historical newspapers in the public domain (published before 1878), written generally in German, French and Luxembourgish. Transcription was done using a double-keying technique with a minimum accuracy of 99.95%. Font class was automatically determined using **bnl-fcr.h5**.
-
 # Models
 
 Nautilus-OCR encloses four pre-trained models:
 
 * **bnl-ocr-antiqua.mlmodel**
 
-OCR model built with *kraken* and trained on the antiqua data (70k pairs) of an extended version of **bnl-public-ocr** that is not limited to the cut-off date of 1878. 
+OCR model built with *kraken* and trained on the antiqua data (70k pairs) of an extended version of [**bnl-public-ocr**](#ground-truth) that is not limited to the cut-off date of 1878. 
 
 * **bnl-ocr-fraktur.mlmodel**
 
-OCR model built with *kraken* and trained on the fraktur data (43k pairs) of an extended version of **bnl-public-ocr** that is not limited to the cut-off date of 1878. 
+OCR model built with *kraken* and trained on the fraktur data (43k pairs) of an extended version of [**bnl-public-ocr**](#ground-truth) that is not limited to the cut-off date of 1878. 
 
 * **bnl-fcr.h5**
 
@@ -370,6 +362,12 @@ Binary font recognition model built with *TensorFlow* and trained to perform cla
 * **bnl-epr-de-fr-lb.jsonl**
 
 Enhancement prediction model trained on more than 4.5k text blocks for the language set *[de, fr, lb]*. Training data has been published between 1840 and 1960. Enhancement is predicted for the application of **bnl-ocr-antiqua.mlmodel** and **bnl-ocr-fraktur.mlmodel**, therefore based on font class set *[antiqua, fraktur]*. The model makes use of the dictionaries for all three languages within `dicts/`. Using leave-one-out cross-validation (kNN algorithm), mean average error of 0.024 was achieved.
+
+# Ground Truth
+
+[**bnl-public-ocr**](https://data.bnl.lu/data/historical-newspapers/)<br>
+
+OCR ground truth dataset including more than 33k text line image/text pairs, split in antiqua (19k) and fraktur (14k) font classes. The set is based on Luxembourg historical newspapers in the public domain (published before 1878), written generally in German, French and Luxembourgish. Transcription was done using a double-keying technique with a minimum accuracy of 99.95%. Font class was automatically determined using **bnl-fcr.h5**.
 
 # Libraries
 
