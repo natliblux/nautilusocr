@@ -226,22 +226,6 @@ Models in `models/final/` are automatically used for this action.<sup>2</sup>
 <sup>4</sup> Every package name should be unique and is defined as the directory name of the METS file.<br>
 <sup>5</sup> Enhancement predictions are in range [-1,1], set to -1 to disable epr and automatically reprocess all target blocks.<br>
 
-<!-- ### **alto-integrate**
-
-| Option| Default | Explanation |
-| :-------------- | :------- | :---------- |
-|**-d --directory**||Path to directory containing orignal METS files <sup>1</sup>|
-|-a --alto|Newest|Path to output ALTO directory containing the improved ALTO files|
-|-o --output||Name of new METS file that integrates the new ALTO files|
-|-k --ark-filter||Path to line-based text file to restrict processing to contained ARKs|
-|-b --backup|False|Backup the file if input and output are the same - must be used with force overwrite|
-|-n --no-prompt|False|Get no prompt in case of error and continue execution|
-|-l --lint|False|Enables call to xmllint at the end <sup>2</sup>|
-|-f --force-overwrite|False|Forces overwriting of METS file when input and ouput are the same|
-
-<sup>1</sup> METS files need to end in *-mets.xml*.<br>
-<sup>2</sup> To use xmllint, you have to install it. On Ubuntu: `apt-get install libxml2-utils`. -->
-
 ### **ocr**
 
 Applies ocr on a directory of images while using the models in `models/final/`.
@@ -267,7 +251,7 @@ The default parameters should generally work well, however they can be adjusted.
 | :-------------- | :------- | :---------- |
 |**-j --jsonl**||path to jsonl file referencing image and ALTO files <sup>3</sup>|
 
-<sup>1</sup> Algorithm details and loss function explanation (section 3.1): https://arxiv.org/pdf/2103.08922.pdf<br>
+<sup>1</sup> Algorithm details and loss function explanation (section 3.1): `articles/Combining_Morphological_and_Histogram_based_Text_Line_Segmentation_in_the_OCR_Context.pdf`<br>
 <sup>2</sup> Algorithm parameters can be adjusted in `config.ini` in case of unsatisfactory performance.<br>
 <sup>3</sup> Example lines: 
 	
