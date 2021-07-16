@@ -251,7 +251,7 @@ The default parameters should generally work well, however they can be adjusted.
 | :-------------- | :------- | :---------- |
 |**-j --jsonl**||path to jsonl file referencing image and ALTO files <sup>3</sup>|
 
-<sup>1</sup> Algorithm details and loss function explanation (section 3.1): `articles/Combining_Morphological_and_Histogram_based_Text_Line_Segmentation_in_the_OCR_Context.pdf`<br>
+<sup>1</sup> Algorithm details and loss function explanation (section 3.1): `whitepapers/Combining_Morphological_and_Histogram_based_Text_Line_Segmentation_in_the_OCR_Context.pdf`<br>
 <sup>2</sup> Algorithm parameters can be adjusted in `config.ini` in case of unsatisfactory performance.<br>
 <sup>3</sup> Example lines: 
 	
