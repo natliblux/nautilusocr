@@ -349,11 +349,11 @@ Nautilus-OCR encloses four pre-trained models:
 
 * **bnl-ocr-antiqua.mlmodel**
 
-OCR model built with *kraken* and trained on the antiqua data (70k pairs) of an extended version of [**bnl-public-ocr**](#ground-truth) that is not limited to the cut-off date of 1878. 
+OCR model built with *kraken* and trained on the antiqua data (70k pairs) of an extended version of [**bnl-ground-truth-newspapers-before-1878**](#ground-truth) that is not limited to the cut-off date of 1878. 
 
 * **bnl-ocr-fraktur.mlmodel**
 
-OCR model built with *kraken* and trained on the fraktur data (43k pairs) of an extended version of [**bnl-public-ocr**](#ground-truth) that is not limited to the cut-off date of 1878. 
+OCR model built with *kraken* and trained on the fraktur data (43k pairs) of an extended version of [**bnl-ground-truth-newspapers-before-1878**](#ground-truth) that is not limited to the cut-off date of 1878. 
 
 * **bnl-fcr.h5**
 
@@ -365,7 +365,7 @@ Enhancement prediction model trained on more than 4.5k text blocks for the langu
 
 # Ground Truth
 
-[**bnl-public-ocr**](https://data.bnl.lu/data/historical-newspapers/)<br>
+[**bnl-ground-truth-newspapers-before-1878**](https://data.bnl.lu/data/historical-newspapers/)<br>
 
 OCR ground truth dataset including more than 33k text line image/text pairs, split in antiqua (19k) and fraktur (14k) font classes. The set is based on Luxembourg historical newspapers in the public domain (published before 1878), written generally in German, French and Luxembourgish. Transcription was done using a double-keying technique with a minimum accuracy of 99.95%. Font class was automatically determined using **bnl-fcr.h5**.
 
