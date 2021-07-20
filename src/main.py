@@ -37,7 +37,7 @@ def read_config():
     final = list()
     for pattern in configP.get(section, "target_types").split(","):
         final.append(pattern.split("->"))
-    ct.BLOCK_TYPES_ATLTO = final
+    ct.BLOCK_TYPES_ALTO = final
     ct.MIN_YEAR = int(configP.get(section, "min_year"))
     ct.MAX_YEAR = int(configP.get(section, "max_year"))
     for vowel in configP.get(section, "vowels"):
