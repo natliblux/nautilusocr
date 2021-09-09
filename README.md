@@ -243,17 +243,16 @@ Applies ocr on a directory of images while using the models in `models/final/`.
 
 ### **test-seg**
 
-Tests the Combiseg segmentation algorithm on a test set defined by a jsonl file. <sup>1</sup><br>
+Tests the CombiSeg segmentation algorithm on a test set defined by a jsonl file.
 The correct functionning of the segmentation algorithm is essential for most other modules and actions.<br>
-The default parameters should generally work well, however they can be adjusted. <sup>2</sup>
+The default parameters should generally work well, however they can be adjusted. <sup>1</sup>
 
 | Option| Default | Explanation |
 | :-------------- | :------- | :---------- |
-|**-j --jsonl**||path to jsonl file referencing image and ALTO files <sup>3</sup>|
+|**-j --jsonl**||path to jsonl file referencing image and ALTO files <sup>2</sup>|
 
-<sup>1</sup> Algorithm details and loss function explanation (section 3.1): `whitepapers/Combining_Morphological_and_Histogram_based_Text_Line_Segmentation_in_the_OCR_Context.pdf`<br>
-<sup>2</sup> Algorithm parameters can be adjusted in `config.ini` in case of unsatisfactory performance.<br>
-<sup>3</sup> Example lines: 
+<sup>1</sup> Algorithm parameters can be adjusted in `config.ini` in case of unsatisfactory performance.<br>
+<sup>2</sup> Example lines: 
 	
 	{"image": "/path/image1.png", "gt": "/path/alto1.xml"}
 	{"image": "/path/image2.png", "gt": "/path/alto2.xml", "gt-block-id": "TB1"}
