@@ -36,12 +36,13 @@ def apply_on_images(images_dir, alto, visual, confidence):
 			print('\n\n' + str(block))
 		
 		# write text file
-		if not os.path.isdir(ct.OCR_OUTPUT_PATH):
-			os.makedirs(ct.OCR_OUTPUT_PATH)
+		output_dir = ct.OCR_OUTPUT_PATH + path.replace(images_dir, '').replace(block.name, '')
+		if not os.path.isdir(output_dir):
+			os.makedirs(output_dir)
 		output_name = block.name.replace('.png','').replace('.tif','') + '.txt'
 		if alto:
 			output_name = output_name.replace('.txt', '.xml')
-		with open(ct.OCR_OUTPUT_PATH + output_name, 'w', encoding='utf-8') as out:
+		with open(output_dir + output_name, 'w', encoding='utf-8') as out:
 			if alto:
 				out.write(block.ocr_alto)
 			else:

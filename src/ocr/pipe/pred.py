@@ -104,8 +104,12 @@ class Predictor:
 
 	# performs character recognition using kraken models
 	def kraken(self):
+
+		model = self.models.ocr[ct.FONTS[0]]
+		if self.block.font != "unknown":
+			model = self.models.ocr[self.block.font]
 		result = rpred(
-			self.models.ocr[self.block.font],
+			model,
 			Image.fromarray(self.block.bin_image),
 			self.lines_to_kraken(), 
 			pad = 0,
