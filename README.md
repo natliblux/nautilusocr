@@ -41,6 +41,7 @@ Nautilus-OCR is mainly built on open-source libraries combined with some proprie
 	* [epr](#enhancement-prediction)
 * [Models](#models)
 * [Ground Truth](#ground-truth)
+* [Articles](#articles)
 * [Libraries](#libraries)
 * [License](#license)
 * [Credits](#credits)
@@ -351,6 +352,13 @@ Enhancement prediction model trained on more than 4.5k text blocks for the langu
 [**bnl-ground-truth-newspapers-before-1878**](https://data.bnl.lu/data/historical-newspapers/)<br>
 
 OCR ground truth dataset including more than 33k text line image/text pairs, split in antiqua (19k) and fraktur (14k) font classes. The set is based on Luxembourg historical newspapers in the public domain (published before 1878), written generally in German, French and Luxembourgish. Transcription was done using a double-keying technique with a minimum accuracy of 99.95%. Font class was automatically determined using **bnl-fcr.h5**.
+
+# Articles
+
+[**Combining Morphological and Histogram based Text Line Segmentation in the OCR Context**](https://jdmdh.episciences.org/8642)  
+Journal of Data Mining & Digital Humanities  
+  
+*Text line segmentation is one of the pre-stages of modern optical character recognition systems. The algorithmic approach proposed by this paper has been designed for this exact purpose. Its main characteristic is the combination of two different techniques, morphological image operations and horizontal histogram projections. The method was developed to be applied on a historic data collection that commonly features quality issues, such as degraded paper, blurred text, or presence of noise. For that reason, the segmenter in question could be of particular interest for cultural institutions, that want access to robust line bounding boxes for a given historic document. Because of the promising segmentation results that are joined by low computational cost, the algorithm was incorporated into the OCR pipeline of the National Library of Luxembourg, in the context of the initiative of reprocessing their historic newspaper collection. The general contribution of this paper is to outline the approach and to evaluate the gains in terms of accuracy and speed, comparing it to the segmentation algorithm bundled with the used open source OCR software.*
 
 # Libraries
 
