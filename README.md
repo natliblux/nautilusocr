@@ -246,7 +246,8 @@ Applies ocr on a directory of images while using the models in `models/final/`.
 
 Tests the CombiSeg segmentation algorithm on a test set defined by a jsonl file.
 The correct functionning of the segmentation algorithm is essential for most other modules and actions.<br>
-The default parameters should generally work well, however they can be adjusted. <sup>1</sup>
+The default parameters should generally work well, however they can be adjusted. <sup>1</sup><br>
+Explanations concerning the parameters, as well as the algorithm itself, can be found [here](https://jdmdh.episciences.org/8642).
 
 | Option| Default | Explanation |
 | :-------------- | :------- | :---------- |
