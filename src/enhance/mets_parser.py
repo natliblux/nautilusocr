@@ -156,7 +156,17 @@ def get_mets_infos(mets_path):
 				b.block_type = block_type
 				b.alto_id = alto_id
 				b.ark = ark
-				b.year = int(issue_date[:4])
+				try:
+					b.year = int(issue_date[:4])
+				except:
+					b.year = ""
+					middle_year = str(round((ct.MIN_YEAR+ct.MAX_YEAR)/2))
+					for i, element in enumerate(issue_date[:4]):
+						if element in ["0123456789"]:
+							b.year += element
+						else:
+							b.year += middle_year[i]
+					b.year = int(b.year)
 
 				block_data[alto_id]['blocks'][block_id] = b
 
